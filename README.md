@@ -34,7 +34,7 @@ If you just cloned this and want to spin it up on your own machine, it's super e
    ```
 
 3. **Check it out:**
-   Open your browser and head over to `http://127.0.0.1:5000`. 
+   Open your browser.
 
 That's it! Try clicking the "Use Sample Data" button first to see it in action, then try throwing your own CSV at it. 
 
