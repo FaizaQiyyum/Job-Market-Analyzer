@@ -1,0 +1,21 @@
+job_title,company,location,required_skills,experience_level
+Software Engineer,Google,Mountain View,Python;JavaScript;SQL,Mid
+Data Scientist,Meta,Menlo Park,Python;Machine Learning;SQL,Senior
+Frontend Developer,Netflix,Los Gatos,JavaScript;React;CSS,Mid
+Backend Engineer,Amazon,Seattle,Java;AWS;Python,Senior
+Junior Web Developer,Stripe,San Francisco,HTML;CSS;JavaScript,Junior
+Data Analyst,Spotify,New York,SQL;Tableau;Python,Junior
+Machine Learning Engineer,Apple,Cupertino,Python;TensorFlow;PyTorch,Senior
+DevOps Engineer,Microsoft,Redmond,AWS;Docker;Kubernetes,Mid
+Software Engineer,Microsoft,Redmond,C#;Azure;SQL,Mid
+Full Stack Developer,Airbnb,San Francisco,JavaScript;React;Node.js,Senior
+Data Scientist,Amazon,Seattle,Python;R;SQL,Mid
+Frontend Developer,Apple,Cupertino,JavaScript;Vue;CSS,Mid
+Backend Engineer,Google,New York,Go;Python;GCP,Senior
+Junior Software Engineer,Meta,Menlo Park,Python;C++,Junior
+Product Manager,Uber,San Francisco,Agile;SQL,Senior
+Software Engineer,Spotify,New York,Java;Spring,Mid
+Data Analyst,Netflix,Los Gatos,SQL;Excel;Python,Junior
+UX Designer,Airbnb,San Francisco,Figma;UI/UX,Mid
+Systems Engineer,Stripe,San Francisco,Linux;Networking,Senior
+Software Engineer,OpenAI,San Francisco,Python;PyTorch,Mid
